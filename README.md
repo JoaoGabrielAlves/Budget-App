@@ -1,4 +1,12 @@
-# budget
+# Budget app
+
+```
+A simple budget app made with vue.
+```
+
+```
+To use run "npm run serve" in the cmd on the correct folder
+```
 
 ## Project setup
 ```
