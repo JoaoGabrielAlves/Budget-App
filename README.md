@@ -5,7 +5,7 @@ A simple budget app made with vue.
 ```
 
 ```
-To use this app run `npm install` and then `npm run serve` in the cmd on the correct folder
+To use this app run "npm install" and then "npm run serve" in the cmd on the correct folder
 ```
 
 ## Project setup
